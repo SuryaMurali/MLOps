@@ -1,4 +1,4 @@
-framework: Python
+framework: Pytho
 communicator: None
 autoPrepareEnvironment: true
 maxRunDurationSeconds:
